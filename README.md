@@ -1,0 +1,1 @@
+Looking at solutions to solve for hover animations on mobile with plain CSS and vanilla JS
